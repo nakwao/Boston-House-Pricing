@@ -1,7 +1,7 @@
 # Boston-House-Pricing
-This is an assignment for a course in machine learning.
+This is an assignment for a course in machine learning. It is a simple price prediction analysis with machine learning using the linear regression model.
 
-Dear facilitators, please don't mafia me. Thanks!
+
 
 
 
